@@ -96,6 +96,7 @@ Every time you write a program, the following will be expected:
 - After each program, I will ask you to explain your work in a short paragraph (3-5 sentences)
 
 ## Grading
+
 The breakdown is simple:
 
 - projects
@@ -112,6 +113,7 @@ The last major component is giving a ted talk on a culminating project.
 
 
 ## Part One: Terminal Commands
+[term](http://learn-co-videos.s3.amazonaws.com/welcome/ide-components.png)
 
  Learn the terminal! You will complete this project using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project! The first link goes deep into what/how. The second link will get you to where you need to be. It's the tl;dr version.
 
@@ -162,6 +164,7 @@ we can tell readme.md is a file simply by noting the extension at the end. .md t
 
 
 ## Part Two: User Documentation
+![doc](https://tyk.io/wp-content/uploads/2017/06/documentation_matrix.jpg)
 
 Learn to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and create a bio in unit_0/readme.md. You can fill with any information you like. Just make sure to include:
 
