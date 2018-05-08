@@ -113,7 +113,7 @@ The last major component is giving a ted talk on a culminating project.
 
 
 ## Part One: Terminal Commands
-[term](http://learn-co-videos.s3.amazonaws.com/welcome/ide-components.png)
+![term](http://learn-co-videos.s3.amazonaws.com/welcome/ide-components.png)
 
  Learn the terminal! You will complete this project using the terminal. If you don't know what a terminal is our any terminal commands, no worries. That is the goal of this project! The first link goes deep into what/how. The second link will get you to where you need to be. It's the tl;dr version.
 
