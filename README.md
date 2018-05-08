@@ -47,10 +47,14 @@ This will be your IDE for the course. Download and setup all of the following fe
 
 ## Download homebrew:
 This is your package manager. Basically, it is an easy way to download software, stay updated, and manage dependencies.
+
+A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing computer programs for a computer's operating system in a consistent manner
+
 - [brew](https://brew.sh/)
 
 ## Install Oh-my-zsh:
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+
 - check out a few plugins you want to use
 ![zsh](https://mobomo.s3.amazonaws.com/uploads/external/zsh_prompt_annotated_small.png)
 
